@@ -24,3 +24,5 @@ echo "install ctags"
 sudo apt-get install exuberant-ctags
 echo "install astyle"
 sudo apt-get install astyle
+echo "install silversearcher"
+sudo apt-get install silversearcher-ag
